@@ -57,5 +57,5 @@ It gives you focused guards for both rspec & cucumber.
 
 ## Credits & Thanks
 
-[Veezus Kriest](http://twitter.com/veezus): When I first said "I'd autotest if..." he made it so in his 'testify' watchr config.
-[Dave Lyon](htt://twitter.com/daveisonthego): For his 'vanguard' implementation using guard-rspec & guard-cucumber.
+* [Veezus Kriest](http://twitter.com/veezus): When I first said "I'd autotest if..." he made it so in his 'testify' watchr config.
+* [Dave Lyon](htt://twitter.com/daveisonthego): For his 'vanguard' implementation using guard-rspec & guard-cucumber.
