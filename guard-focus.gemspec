@@ -1,10 +1,10 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "guard-focus/version"
+require "guard/focus/version"
 
 Gem::Specification.new do |s|
   s.name        = "guard-focus"
-  s.version     = Guard::Focus::VERSION
+  s.version     = Guard::FocusVersion::VERSION
   s.authors     = ["Lar Van Der Jagt"]
   s.email       = ["lar@hashrocket.com"]
   s.homepage    = "http://github.com/supaspoida/guard-focus"
